@@ -1,0 +1,18 @@
+# Node.js
+node_modules/
+.env
+
+# Prisma
+.prisma/
+generated/
+.prisma/client/
+
+# Logs
+*.log
+
+# VSCode
+.vscode/
+
+# macOS / Windows
+.DS_Store
+Thumbs.db
