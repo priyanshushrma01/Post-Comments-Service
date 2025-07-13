@@ -1,4 +1,4 @@
-# 🛡️ CloudSEK Backend Assignment – Post-Comments Service
+# Post-Comments Service
 
 This is a backend service built for the CloudSEK SDE Backend Intern assignment. It allows users to create posts and add rich-text-supported comments.
 
